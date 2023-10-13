@@ -7,5 +7,5 @@ import java.util.List;
 
 
 public interface IUserRepository extends JpaRepository<UserModel, UUID> {
-    List<UserModel> findByUsername(String username);
+    UserModel findByUsername(String username);
 }
