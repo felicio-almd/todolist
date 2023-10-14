@@ -38,12 +38,14 @@
 
 ## :dart: About ##
 
-Contruindo um back-end de uma aplicação de to-do-list com puro Java. Utilizando conceitos de spring boot
+Part 1 - Building a back-end of a to-do list application with pure Java. Using spring boot concepts\
+Part 2 - Integration with database using modern tools\
+Part 3 - Implementing authentication and ensuring secure access to the application,  Creating the tbl tasks\
 
 ## :sparkles: Features ##
 
 :heavy_check_mark: Feature 1 - Spring Boot;\
-:heavy_check_mark: Feature 2 - Maven
+:heavy_check_mark: Feature 2 - Maven;
 <!-- :heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies ##
