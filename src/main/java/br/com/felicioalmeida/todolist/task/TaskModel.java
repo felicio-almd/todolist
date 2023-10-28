@@ -41,4 +41,11 @@ public class TaskModel {
         this.title = title;
     }
 
+    public void setDescription(String description) throws Exception{
+        if (description.length() > 50) {
+            throw new Exception("O campo description deve conter no máximo 50 caracteres");
+        }
+        this.description = description;
+    }
+
 }
